@@ -1,0 +1,7 @@
+[ 2023-04-29 22:50:55,502 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-29 22:50:55,526 ] 224 werkzeug - INFO -  * Debugger PIN: 925-655-453
+[ 2023-04-29 22:51:44,243 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 22:51:44] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2023-04-29 22:51:44,427 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 22:51:44] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-04-29 22:51:44,529 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 22:51:44] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-04-29 22:51:44,679 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 22:51:44] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-04-29 22:51:44,811 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 22:51:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

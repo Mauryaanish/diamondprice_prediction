@@ -1,0 +1,12 @@
+[ 2023-04-29 23:08:39,824 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-29 23:08:39,834 ] 224 werkzeug - INFO -  * Debugger PIN: 925-655-453
+[ 2023-04-29 23:08:42,089 ] 67 root - INFO - Dataframe Gathered 
+[ 2023-04-29 23:08:42,361 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 23:08:42] "POST /predict HTTP/1.1" 200 -
+[ 2023-04-29 23:08:45,236 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 23:08:45] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-29 23:08:47,501 ] 67 root - INFO - Dataframe Gathered 
+[ 2023-04-29 23:08:47,514 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 23:08:47] "POST /predict HTTP/1.1" 200 -
+[ 2023-04-29 23:08:53,821 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 23:08:53] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-29 23:08:57,285 ] 67 root - INFO - Dataframe Gathered 
+[ 2023-04-29 23:08:57,296 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 23:08:57] "POST /predict HTTP/1.1" 200 -
+[ 2023-04-29 23:08:59,438 ] 224 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 23:08:59] "GET /predict HTTP/1.1" 200 -
+[ 2023-04-29 23:09:26,243 ] 224 werkzeug - INFO -  * Detected change in 'c:\\diamondprice\\app.py', reloading
