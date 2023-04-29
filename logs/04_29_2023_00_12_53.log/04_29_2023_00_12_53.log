@@ -1,0 +1,6 @@
+[ 2023-04-29 00:12:56,956 ] 27 root - INFO - Data Ingestion Method Starts
+[ 2023-04-29 00:12:57,236 ] 31 root - INFO - Dataset read as pandas Dataframe
+[ 2023-04-29 00:12:58,803 ] 35 root - INFO - Train test split
+[ 2023-04-29 00:13:00,619 ] 41 root - INFO - Ingestion of Data is Completed
+[ 2023-04-29 00:13:01,050 ] 79 root - INFO - Read Train and test data completed
+[ 2023-04-29 00:13:01,051 ] 124 root - INFO - Exception occured in the initaite_data_tanformation
